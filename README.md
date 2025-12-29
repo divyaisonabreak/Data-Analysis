@@ -11,7 +11,7 @@ Right now, this repo starts with a **Power BI dashboard project**, and I’m act
 ### ✅ Power BI
 - **Data Professional Survey Breakdown**  
   A one-page dashboard that explores a survey of data professionals: roles, salary trends, favorite programming languages, countries, and satisfaction metrics.  
-  📁 `projects/powerbi-data-professional-survey/`
+  📁 `powerbi/data professional survey breakdown/`
 
 ---
 
@@ -23,5 +23,4 @@ Right now, this repo starts with a **Power BI dashboard project**, and I’m act
 
 ---
 
-## How this repo is organized 🗂️
 
