@@ -42,3 +42,4 @@ This is a guided project inspired by:
 
 If you like this kind of project, check out the visuals first — the dashboard is meant to feel like a quick tour of the “data world” in one glance.
 
+<img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/014d77d8-ab09-40e0-8037-9d00775f0bf4" />
