@@ -71,5 +71,3 @@ Add screenshots to `/assets/` and reference them here:
 
 ---
 
-**Author:** <Your Name>  
-
