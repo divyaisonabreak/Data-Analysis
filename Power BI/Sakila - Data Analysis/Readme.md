@@ -66,8 +66,9 @@ Planned additions in upcoming pages:
 ---
 
 ## Screenshots
-Add screenshots to `/assets/` and reference them here:
-- `assets/page1-overview.png`
+
+<img width="1302" height="735" alt="image" src="https://github.com/user-attachments/assets/3d64907c-71dc-4e9d-897c-6c78fb4e92e8" />
+
 
 ---
 
