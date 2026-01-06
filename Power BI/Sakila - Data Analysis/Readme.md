@@ -86,6 +86,3 @@ Using a Year-Month view reduces noise and makes incomplete periods easier to int
 
 ### Page 2: Content Performance
 <img width="1303" height="737" alt="image" src="https://github.com/user-attachments/assets/a49c3fba-ef42-463a-859c-36aa0f68ea4f" />
-
-> Add your Page 2 screenshot to `/assets/page2_content_performance.png` and reference it below:
-<img width="1302" height="735" alt="Page 2 - Content Performance" src="./assets/page2_content_performance.png" />
